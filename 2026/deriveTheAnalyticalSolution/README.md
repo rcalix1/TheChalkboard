@@ -166,6 +166,7 @@ Like this conceptually:
     / | r
    /  |
   *---*
+ 
  Xw
 
 where
