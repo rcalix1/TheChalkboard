@@ -12,7 +12,6 @@ Contact: rcalix@rcalix.com
 
 ## Problem
 
-Contact: rcalix@rcalix.com
 
 A common statement in machine learning is that **neural network loss functions are non‑convex**, which makes training difficult and leads to multiple local minima.
 
