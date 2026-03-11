@@ -2,6 +2,9 @@
 
 **Derivations and challenges behind modern AI**
 
+![The Chalkboard](theChalkboard.png)
+
+
 Step up to the chalkboard.
 
 This repository contains a collection of mathematical derivations, conceptual puzzles, and AI challenges. Some problems revisit classic results behind machine learning, while others explore ideas that appear in modern artificial intelligence research.
@@ -53,7 +56,7 @@ Prove it.
 
 ## The Chalkboard
 
-![The Chalkboard](chalkboard.png)
+
 
 The image above represents the spirit of this repository: a chalkboard filled with ideas, questions, and mathematical challenges waiting to be explored.
 
