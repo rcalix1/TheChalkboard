@@ -4,6 +4,9 @@
 
 ![The Chalkboard](theChalkboard.png)
 
+Contact: rcalix@rcalix.com
+
+---
 
 Step up to the chalkboard.
 
