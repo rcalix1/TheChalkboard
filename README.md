@@ -72,7 +72,7 @@ Challenges may involve concepts such as:
 
 ## Contributing
 
-If you would like to contribute a challenge or a derivation, feel free to submit a pull request.
+If you would like to contribute a challenge or a derivation, feel free to submit a pull request or email me at rcalix@rcalix.com 
 
 The goal is to build a living chalkboard of ideas behind modern AI.
 
