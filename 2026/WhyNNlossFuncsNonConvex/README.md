@@ -4,6 +4,10 @@
 
 **Derivations and challenges behind modern AI.**
 
+![Projection Geometry](chalkNonConvex.png)
+
+Contact: rcalix@rcalix.com
+
 ---
 
 ## Problem
