@@ -54,13 +54,7 @@ Prove it.
 
 ---
 
-## The Chalkboard
 
-
-
-The image above represents the spirit of this repository: a chalkboard filled with ideas, questions, and mathematical challenges waiting to be explored.
-
----
 
 ## Topics You May Encounter
 
