@@ -8,6 +8,8 @@
 
 ## Problem
 
+Contact: rcalix@rcalix.com
+
 A common statement in machine learning is that **neural network loss functions are non‑convex**, which makes training difficult and leads to multiple local minima.
 
 However, many loss functions used in machine learning — such as **Mean Squared Error (MSE)** — are **convex functions**.
