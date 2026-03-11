@@ -1,4 +1,4 @@
-# Problem 01 — Why Are Neural Network Cost Functions Non‑Convex?
+# Why Are Neural Network Cost Functions Non‑Convex?
 
 ## The Chalkboard
 
