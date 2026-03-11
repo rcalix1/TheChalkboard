@@ -157,7 +157,7 @@ the classic least-squares projection diagram:
   
 Like this conceptually:
 
-
+```
         Y
         *
        /
@@ -166,8 +166,10 @@ Like this conceptually:
     / | r
    /  |
   *---*
+Xw
+
+```
  
- Xw
 
 where
 
