@@ -1,4 +1,4 @@
-# Problem 02 — Where Does $(X^TX)^{-1}X^TY$ Come From?
+# Where Does $(X^TX)^{-1}X^TY$ Come From?
 
 ## The Chalkboard
 
