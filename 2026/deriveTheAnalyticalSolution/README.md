@@ -4,7 +4,9 @@
 
 **Derivations and challenges behind modern AI.**
 
-![Projection Geometry](analyticalSol.jpg)
+![Projection Geometry](analyticalSol.png)
+
+Contact: rcalix@rcalix.com
 
 ---
 
@@ -60,7 +62,7 @@ Least‑squares minimizes the **distance between the predicted outputs and the o
 
 Geometrically, this corresponds to **projecting $Y$ onto the column space of $X$**.
 
-![Least Squares Projection](image_projection.jpg)
+
 
 ---
 
