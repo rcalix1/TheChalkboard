@@ -48,7 +48,7 @@ Multiple different configurations of weights can produce the **same output funct
 
 The mean squared error loss for a simple linear model produces a convex bowl‑shaped surface.
 
-![Convex Loss Illustration](image1.png)
+![Convex Loss Illustration](img1.png)
 
 ---
 
@@ -80,13 +80,15 @@ Your reasoning should consider:
 2. The role of **hidden layers and nonlinear transformations**.
 3. The possibility of **multiple parameter configurations producing the same outputs**.
 
+![Non‑Convex Loss Illustration](img4.jpeg)
+
 ---
 
 ## Goal
 
 Provide an argument or derivation showing why neural network training leads to a **non‑convex optimization problem in parameter space**.
 
-No code is required — this is a **conceptual and mathematical reasoning challenge**.
+![Non‑Convex Loss Illustration](img5.jpeg)
 
 ---
 
