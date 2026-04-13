@@ -4,7 +4,7 @@
 
 **Derivations and challenges behind modern AI.**
 
-![Perceptron Chalkboard](perceptronGrad.png)
+![Perceptron Chalkboard](woordrowHoffChalkBoard.png)
 
 Contact: rcalix@rcalix.com
 
